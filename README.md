@@ -6,9 +6,6 @@
 👨‍🎓 StudisStudied [Master In Computer Application MCA ] at the Chandigarh University<br/> 
 🌱 Currently learning about Full Stack Web Development and DevOps <br/>
 
-[![Narsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarsiBhatii)]()
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narsi-bhati-b43459224/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/narsibhati31102/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/NarsiBhati31) 
 
