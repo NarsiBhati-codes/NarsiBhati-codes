@@ -7,7 +7,7 @@
 🌱 Currently learning about Full Stack Web Development  <br/>
 
 
-[![Narsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarsiBhati)](https://github.com/NarsiBhatii/github-readme-stats)
+[![Narsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarsiBhatii)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NarsiBhatii/NarsiBhatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
