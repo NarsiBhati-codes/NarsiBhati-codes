@@ -1,5 +1,13 @@
-### Hi there 👋
 
+
+### Hi, I'm Narsi Bhati 👋
+
+👨‍💻 MERN Stack Developer 
+👨‍🎓 StudisStudied [Master In Computer Application MCA ] at the Chandigarh University Punjab <br/> 
+🌱 Currently learning about Full Stack Web Development  <br/>
+
+
+[![Narsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/NarsiBhatii/github-readme-stats)
 <!--
 **NarsiBhatii/NarsiBhatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
