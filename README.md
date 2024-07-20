@@ -5,6 +5,7 @@
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/NarsiBhati31)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/narsi-bhati-b43459224/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/narsibhati_codes?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D)
 ![border-seperator](assets/borderseparator.gif) 
   
 ## About Narsi
